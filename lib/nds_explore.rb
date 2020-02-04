@@ -12,5 +12,5 @@ pretty_print_nds(directors_database)
 
 
 def print_first_directors_movie_titles
-  
+  movies = 
 end
