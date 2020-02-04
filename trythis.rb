@@ -1,1 +1,1 @@
-puts "Hello"
+pretty_print_nds
